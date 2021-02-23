@@ -1,0 +1,4 @@
+---
+  database:
+    hosts:
+      www[01:50].example.com:
